@@ -1,4 +1,5 @@
-![The Battle] (https://github.com/teoxifsaek/my-first-repository/blob/main/github_profile_photo.jpg)
+<img width="1408" height="768" alt="github_profile_photo" src="https://github.com/user-attachments/assets/86eef63a-e9de-4e11-9dd6-af0170e3206e" />
+
 
 # my-first-repository
 My first GitHub repository
