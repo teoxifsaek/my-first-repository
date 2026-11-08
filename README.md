@@ -1,3 +1,5 @@
+![The Battle] (https://github.com/teoxifsaek/my-first-repository/blob/main/github_profile_photo.jpg)
+
 # my-first-repository
 My first GitHub repository
 
